@@ -1,0 +1,68 @@
+Case study:
+Multiple customers have launched complaints that searching for and purchasing music from Music Mall is confusing and laborious.
+The management executives recognise this as a major problem, as they pride themselves on putting their customers first. 
+Therefore, they decide that the IT team should update the user interface, and streamline their platforms to make them more user-friendly.
+Before the IT team can redesign the platform, the company decides to do in-depth research into the problem, in order to guide the web designers.
+
+Below are three specific research questions that the company could propose in order to guide the IT team during the redesign process.
+One descriptive, one relational, and one causal question. Each question is clearly defined as whether it is a descriptive, relational, or causal question.
+
+Descriptive Research Question:
+What are the current pain points that customers face when searching for and purchasing music on Music Mall's platforms?
+Type of question: Descriptive
+
+Relational Research Question:
+Is there a correlation between the complexity of the user interface and the frequency of customer complaints?
+Type of question: Relational
+
+Causal Research Question:
+How does simplifying the user interface of Music Mall's platforms affect customer satisfaction and sales?
+Type of question: Causal
+
+Take either the relational or causal research questions and identify some of the most relevant variables for that question. 
+Indicate which variables are the dependent, independent, and control variables. 
+
+Relational Research Question:
+
+    How does the ease of searching and purchasing music on Music Mall's platform affect customer satisfaction?
+
+Dependent variable: Customer satisfaction
+Independent variable: Ease of searching and purchasing music on Music Mall's platform
+Control variables:
+
+    User demographic (age, gender, location, etc.)
+    Music genre preferences
+    User device (mobile, desktop, tablet)
+
+It is important to control for variables that could potentially influence the relationship between the independent and dependent variables.
+In this case, controlling for user demographic, music genre preferences, and user device can help ensure that any observed relationship between ease 
+of use and customer satisfaction is not due to these other factors.
+
+Once the variables have been identified, it is important to determine how these variables will be measured and how the data will be gathered. 
+Remember that data can be primary- or secondary source data. 
+
+The relational research question is: "Is there a relationship between the length of the music search process and customer satisfaction?"
+
+The dependent variable is customer satisfaction, which will be measured on a Likert scale through a survey questionnaire.
+This is an example of primary source data since the company will gather the data directly from the customers.
+
+The independent variable is the length of the music search process, which will be measured as the time taken for a customer to find a specific song or album. 
+This will be tracked automatically by the Music Mall platform and recorded in the company's database.
+This is an example of secondary source data since the company will gather the data from their own platform.
+
+Control variables may include the customer's age, gender, and familiarity with using technology.
+These will be measured through the same survey questionnaire used to measure customer satisfaction. 
+This is an example of primary source data since the company will gather the data directly from the customers.
+
+To measure customer satisfaction, Music Mall will use a Likert scale questionnaire with questions such as 
+"How satisfied were you with your overall experience searching for and purchasing music on Music Mall?" and 
+"How likely are you to recommend Music Mall to a friend?" 
+The length of the music search process will be measured by recording the time taken for a customer to find a specific song or album, 
+which is automatically tracked by the Music Mall platform. 
+The control variables will be measured through demographic questions on the same survey questionnaire used to measure customer satisfaction.
+
+
+
+
+
+
